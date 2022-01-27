@@ -840,12 +840,6 @@ Plir:Play()
 Plir:AdjustSpeed(2.5)
 end)
 
-
-tab:Button("Fake Detain", "", function()
-de:Play()
-de:Adjustspeed(2.5)
-end)
-
 tab:Button("tilit head", "", function()
 Pler:Play()
 Pler:Adjustspeed(2.5)
